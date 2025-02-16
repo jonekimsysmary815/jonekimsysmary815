@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm jonekimsysmary815
 
-<!--
-**jonekimsysmary815/jonekimsysmary815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 🎳 🔥 A freak in developer relations 📚 🎳 🔥
 
-Here are some ideas to get you started:
+## About Me
+🛹 🏒 🎪 🛶 A hacker in product management 🛹 🏒 🎪 🛶
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎽 🏹 🎰 🌟 A student of tools 🎽 🏹 🎰 🌟
+
+### Fun Facts
+🥊 🎪 🎯 Innovating in the field of automation 🥊 🎪 🎯
+
+---
+🎾 🚣 🥊 🎣 🎣 Thanks for visiting my profile! 🛹 🚴 🎧 🏒 🥊
